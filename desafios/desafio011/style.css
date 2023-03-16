@@ -1,0 +1,14 @@
+#fora{
+  background-image: url(imagens/espaco.jpg);
+  height: 95vh;
+  position: relative;
+  background-size: cover;
+}
+
+div > img{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+
+}
